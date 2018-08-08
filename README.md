@@ -1,2 +1,2 @@
 # NLPmadeEasy
-This project is delicated to code NLP algorithmns from scratch to illustrate the underlying main concept 
+This project is delicated to code common NLP algorithmns from scratch to illustrate the underlying main concept 
